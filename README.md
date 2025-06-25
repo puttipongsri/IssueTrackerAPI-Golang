@@ -20,7 +20,8 @@ JWT_SECRET=your_jwt_secret`
 ## ✨ Features
 
 - ✅ JWT Authentication
-- ✅ Project & Employee CRUD
+- ✅ Project CRUD
+- ✅ Employee Register & Login
 - ✅ Many-to-Many: Projects ↔ Employees
 - ✅ Upload project image
 - ✅ Export Project to Excel (.xlsx)
